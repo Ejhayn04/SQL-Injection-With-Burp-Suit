@@ -13,6 +13,7 @@ This lab demonstrates an SQL injection through Burp Suite.
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+<h2>Program walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
