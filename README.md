@@ -37,6 +37,6 @@ TCP RST attacks on telnet connections (Attacker POV):  <br/>
 <br />
 <br />
 TCP RST attacks on telnet connections (Client POV):  <br/>
-<img src="https://imgur.com/5dmdjqo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/aeJ8ByH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
