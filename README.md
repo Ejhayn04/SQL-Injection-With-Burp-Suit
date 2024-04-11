@@ -17,7 +17,7 @@ This lab demonstrates an SQL injection through Burp Suite.
 
 <p align="center">
 Performing a Ping Sweeping: <br/>
-<img src="https://imgur.com/i2jueri" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/i2jueri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
