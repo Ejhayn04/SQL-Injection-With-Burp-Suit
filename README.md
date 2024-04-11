@@ -20,12 +20,12 @@ Performing a Ping Sweeping: <br/>
 <img src="https://imgur.com/i2jueri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Performing a Port Scanning:  <br/>
+<img src="https://imgur.com/nvpCbmP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+SYN flooding attack: <br/>
+<img src="https://imgur.com/Nxwg39h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
